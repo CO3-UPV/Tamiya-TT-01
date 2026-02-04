@@ -1,0 +1,37 @@
+# MATLAB/Simulink files
+*.asv
+*.autosave
+*.slxc
+*.mex*
+*.m~
+*.mat~
+
+# Generated data files
+data/*.mat
+
+# Simulink cache
+slprj/
+*.slxc
+
+# Code generation folders
+codegen/
+
+# MATLAB temporary files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Model specific generated files
+*.slx.r????
+*.slx.original
+
+# Simscape cache
+ssc_*/
+
+# Mechanics Explorer temporary files
+*.smm
+
+# Documentation build artifacts
+*.pdf~
